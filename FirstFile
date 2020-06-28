@@ -1,0 +1,7 @@
+echo "# GitDemo2_Public" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/sriswapnach/GitDemo2_Public.git
+git push -u origin master
+                
